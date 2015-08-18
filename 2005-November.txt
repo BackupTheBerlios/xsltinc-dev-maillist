@@ -1,0 +1,16 @@
+From mikael at emu-france.com  Thu Nov  3 13:27:13 2005
+From: mikael at emu-france.com (Mikael Barbero)
+Date: Thu, 3 Nov 2005 13:27:13 +0100
+Subject: [Xsltinc-dev] Rapport de bibliographie & conception XSLTInc
+Message-ID: <200511031327.13280.mikael@emu-france.com>
+
+Bonjour ? tous,
+Le rapport de la premi?re phase de projet sont disponibles ? l'adresse :
+http://xsltinc.berlios.de/reports/
+Les fiches de suivie ont aussi ?t? mises ? jour : 
+http://xsltinc.berlios.de/weekly_reports/
+
+Cordialement,
+Mika?l
+
+
